@@ -1,2 +1,1 @@
-# testRepo
-Repo for testing and instruction.
+this is a readme file.
